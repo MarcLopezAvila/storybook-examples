@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+dist/
+.cache
+
+# macOS
+.DS_Store
+
+#Editors
+.idea
+.idea/
+
